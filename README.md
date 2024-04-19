@@ -30,3 +30,7 @@ The script saves the extracted property data to a CSV file named `zillow_extract
 ### License
 
 MIT License
+
+**Note:**
+
+This script is for educational purposes only. Be mindful of Daft.ie's terms of service when scraping their website.
