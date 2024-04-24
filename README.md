@@ -33,4 +33,4 @@ MIT License
 
 **Note:**
 
-This script is for educational purposes only. Be mindful of Daft.ie's terms of service when scraping their website.
+This script is for educational purposes only. Be mindful of Zillow's terms of service when scraping their website.
